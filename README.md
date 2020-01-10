@@ -1,3 +1,5 @@
+Initially forked from [ProjectInitializationAutomation](https://github.com/KalleHallden/ProjectInitializationAutomation) by [Kalle Hallden](https://github.com/KalleHallden)
+
 ### Install: 
 ```bash
 git clone "https://github.com/KalleHallden/ProjectInitializationAutomation.git"
