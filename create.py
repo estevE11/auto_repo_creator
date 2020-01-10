@@ -5,7 +5,7 @@ from github import Github
 path = "R:/dev/"
 
 username = "estevE11" #Insert your github username here
-password = sys.argv[3]#open("pass.txt", "r").read() #Write your github password in the pass.txt file
+password = open("pass.txt", "r").read() #Write your github password in the pass.txt file
 
 def create():
     if len(sys.argv) < 2:
